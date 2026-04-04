@@ -4,8 +4,8 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Nicolas Nardoia
+- Vivo en Villa Bosch
 
 
 ### Otra Información
