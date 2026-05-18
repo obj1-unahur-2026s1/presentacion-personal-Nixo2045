@@ -18,6 +18,6 @@ La UNAHUR me encanto como universidad tanto como el lado de la integración que 
 - Soy hincha fanatico de Boca Juniors.
 - Sueño con algun día ser parte de la creación de algun juego como Half-Life que es mi juego favorito.
 - Conocer la empresa Valve por dentro y ver como se manejan en la creacion de videojuegos.
-- Me gustaria viajar para conocer otros países de Europa, Sudamerica y obviamente dentro de Argentina.
+- Me gustaria viajar para conocer otros países de Europa, Sudamerica y obviamente el interior de Argentina.
 
 ![Foto Mia](./yo.png)
